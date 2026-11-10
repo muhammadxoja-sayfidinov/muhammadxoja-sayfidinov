@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Xoja Sayfidinov — Developer</title>
+  <desc id="desc">A modern dark developer banner with abstract gradients and Flutter, Dart, Python, and Django themes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101827"/>
+      <stop offset="0.55" stop-color="#172554"/>
+      <stop offset="1" stop-color="#312e81"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(930 82) rotate(90) scale(260 360)">
+      <stop stop-color="#6366f1" stop-opacity=".36"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glow)"/>
+  <circle cx="1035" cy="70" r="115" fill="none" stroke="#a5b4fc" stroke-opacity=".15" stroke-width="1.5"/>
+  <circle cx="1035" cy="70" r="155" fill="none" stroke="#a5b4fc" stroke-opacity=".1" stroke-width="1.5"/>
+  <path d="M0 292C220 250 320 380 560 310s360-52 640 4v46H0z" fill="#0b1220" fill-opacity=".3"/>
+  <g opacity=".8" fill="none" stroke="url(#accent)" stroke-width="2">
+    <path d="m860 146 55-32 55 32v64l-55 32-55-32z"/>
+    <path d="m970 210 42-24 42 24v48l-42 24-42-24z" opacity=".65"/>
+    <path d="m1050 105 30-17 30 17v34l-30 17-30-17z" opacity=".5"/>
+  </g>
+  <g fill="#c4b5fd" opacity=".9">
+    <circle cx="811" cy="88" r="3"/><circle cx="1125" cy="194" r="3"/><circle cx="925" cy="290" r="2"/>
+    <circle cx="760" cy="220" r="2"/><circle cx="1100" cy="300" r="2"/>
+  </g>
+  <text x="86" y="125" fill="#93c5fd" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4">SOFTWARE DEVELOPER</text>
+  <text x="82" y="190" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="47" font-weight="750">Muhammad Xoja</text>
+  <text x="84" y="240" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="47" font-weight="750">Sayfidinov</text>
+  <rect x="86" y="269" width="68" height="4" rx="2" fill="url(#accent)"/>
+  <text x="170" y="278" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Flutter · Dart · Python · Django</text>
+</svg>
