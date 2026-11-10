@@ -1,44 +1,37 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="Muhammad Xoja Sayfidinov — Software Developer" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Muhammad Xoja Sayfidinov — Flutter and Django developer" width="100%" />
 </div>
 
 <h1 align="center">Hi, I'm Muhammad Xoja 👋</h1>
 
 <p align="center">
-  <strong>Software developer building mobile experiences and practical web solutions.</strong><br />
-  I work with Flutter and Dart, and explore Python and Django to build across the stack.
+  Software developer building mobile apps and backend tools with <strong>Flutter, Dart, Python, and Django</strong>.<br />
+  Currently working on <a href="https://github.com/muhammadxoja-sayfidinov/dilkash"><strong>Dilkash</strong></a>, a restaurant platform connecting customer and staff apps with POS and operations workflows.
 </p>
 
 <p align="center">
-  <a href="https://github.com/muhammadxoja-sayfidinov"><img src="https://img.shields.io/badge/GitHub-muhammadxoja--sayfidinov-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
-  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web-2563EB?style=for-the-badge" alt="Mobile and web development" />
+  <a href="https://github.com/muhammadxoja-sayfidinov"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
+  <a href="https://github.com/muhammadxoja-sayfidinov"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
+  <a href="https://github.com/muhammadxoja-sayfidinov"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://github.com/muhammadxoja-sayfidinov"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /></a>
 </p>
 
-## About me
+---
 
-- 📱 Building cross-platform apps with **Flutter** and **Dart**
-- 🐍 Working with **Python** and **Django** for backend and web development
-- 🧩 Interested in clean, useful products that solve real-world problems
-- 🌱 Always learning and improving through hands-on projects
+### What I do
 
-## Tech stack
+- Build cross-platform mobile experiences with Flutter and Dart
+- Develop backend and business workflows with Python and Django
+- Turn practical needs into clear, useful software
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-</p>
+### Featured work
 
-## Featured projects
+**[Dilkash Restaurant Ecosystem](https://github.com/muhammadxoja-sayfidinov/dilkash)**  
+A multi-part restaurant product with customer and staff Flutter apps, a shared design system, and a Django POS/API. Its detailed README makes it the strongest project to feature and pin.
 
-- **[Dilkash](https://github.com/muhammadxoja-sayfidinov/dilkash)** — A broad Flutter and Django restaurant ecosystem, including customer and staff apps and a backend/POS. This is the strongest candidate to feature based on its detailed project documentation.
-- **[Neoplay](https://github.com/muhammadxoja-sayfidinov/neoplay)** — A Dart project that could complement a mobile-focused profile; consider pinning if its README and current state are polished.
-- **[Qarzdorlikbot](https://github.com/muhammadxoja-sayfidinov/qarzdorlikbot)** — A Python project that could showcase your Python work; review the repository description and documentation before pinning.
+**Other pin candidates:** [Neoplay](https://github.com/muhammadxoja-sayfidinov/neoplay) and [Qarzdorlikbot](https://github.com/muhammadxoja-sayfidinov/qarzdorlikbot) could add breadth once their project pages clearly explain the finished product and how to run it.
 
-**Pin recommendation:** Start with `dilkash`. Add `neoplay` and `qarzdorlikbot` only if they represent finished, presentable work. I reviewed repository metadata and available READMEs, not every codebase, so validate those two candidates before pinning.
-
-## GitHub at a glance
+### GitHub activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadxoja-sayfidinov&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
@@ -53,6 +46,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadxoja-sayfidinov&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
 </p>
 
----
-
-<p align="center"><sub>Thanks for stopping by — feel free to explore my repositories and connect through GitHub.</sub></p>
+<p align="center"><sub>Thanks for visiting. Explore my repositories to see what I'm building.</sub></p>
