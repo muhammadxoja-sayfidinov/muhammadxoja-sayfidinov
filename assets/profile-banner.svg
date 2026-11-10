@@ -1,38 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Muhammad Xoja Sayfidinov — Developer</title>
-  <desc id="desc">A modern dark developer banner with abstract gradients and Flutter, Dart, Python, and Django themes.</desc>
+  <title id="title">Muhammad Xoja Sayfidinov — Software Developer</title>
+  <desc id="desc">A polished developer banner with a deep navy gradient, subtle grid, and a Flutter-inspired code panel.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#101827"/>
-      <stop offset="0.55" stop-color="#172554"/>
-      <stop offset="1" stop-color="#312e81"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38bdf8"/>
-      <stop offset="1" stop-color="#a78bfa"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(930 82) rotate(90) scale(260 360)">
-      <stop stop-color="#6366f1" stop-opacity=".36"/>
-      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08111f"/><stop offset=".58" stop-color="#111d38"/><stop offset="1" stop-color="#252050"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#6366f1" stop-opacity=".3"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b8c7e5" stroke-opacity=".055"/></pattern>
   </defs>
   <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#glow)"/>
-  <circle cx="1035" cy="70" r="115" fill="none" stroke="#a5b4fc" stroke-opacity=".15" stroke-width="1.5"/>
-  <circle cx="1035" cy="70" r="155" fill="none" stroke="#a5b4fc" stroke-opacity=".1" stroke-width="1.5"/>
-  <path d="M0 292C220 250 320 380 560 310s360-52 640 4v46H0z" fill="#0b1220" fill-opacity=".3"/>
-  <g opacity=".8" fill="none" stroke="url(#accent)" stroke-width="2">
-    <path d="m860 146 55-32 55 32v64l-55 32-55-32z"/>
-    <path d="m970 210 42-24 42 24v48l-42 24-42-24z" opacity=".65"/>
-    <path d="m1050 105 30-17 30 17v34l-30 17-30-17z" opacity=".5"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="1010" cy="110" r="300" fill="url(#halo)"/>
+  <path d="M0 314C220 265 370 374 590 313s396-46 610 6v41H0z" fill="#050b15" opacity=".3"/>
+  <text x="76" y="102" fill="#8bdcff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4">SOFTWARE DEVELOPER</text>
+  <text x="72" y="166" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="43" font-weight="700" letter-spacing="-.8">Muhammad Xoja Sayfidinov</text>
+  <text x="76" y="207" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">Mobile products · Backend systems · Practical software</text>
+  <rect x="76" y="244" width="295" height="38" rx="19" fill="#111d32" stroke="#52627d" stroke-opacity=".65"/>
+  <circle cx="97" cy="263" r="5" fill="#38bdf8"/><text x="111" y="269" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">FLUTTER</text>
+  <circle cx="199" cy="263" r="5" fill="#a78bfa"/><text x="213" y="269" fill="#ede9fe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">DART</text>
+  <circle cx="279" cy="263" r="5" fill="#4ade80"/><text x="293" y="269" fill="#dcfce7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">PYTHON</text>
+  <g transform="translate(790 83)">
+    <rect width="326" height="194" rx="18" fill="#0b1220" fill-opacity=".82" stroke="#94a3b8" stroke-opacity=".22"/>
+    <path d="M0 48h326" stroke="#94a3b8" stroke-opacity=".18"/>
+    <circle cx="23" cy="24" r="5" fill="#fb7185"/><circle cx="42" cy="24" r="5" fill="#fbbf24"/><circle cx="61" cy="24" r="5" fill="#4ade80"/>
+    <text x="24" y="82" fill="#94a3b8" font-family="Consolas,monospace" font-size="13">class</text>
+    <text x="65" y="82" fill="#7dd3fc" font-family="Consolas,monospace" font-size="13">ProductBuilder:</text>
+    <text x="42" y="111" fill="#c4b5fd" font-family="Consolas,monospace" font-size="13">def</text>
+    <text x="73" y="111" fill="#f8fafc" font-family="Consolas,monospace" font-size="13">build(self):</text>
+    <text x="60" y="140" fill="#86efac" font-family="Consolas,monospace" font-size="13">return useful_software</text>
+    <rect x="24" y="161" width="184" height="4" rx="2" fill="url(#accent)" opacity=".9"/>
   </g>
-  <g fill="#c4b5fd" opacity=".9">
-    <circle cx="811" cy="88" r="3"/><circle cx="1125" cy="194" r="3"/><circle cx="925" cy="290" r="2"/>
-    <circle cx="760" cy="220" r="2"/><circle cx="1100" cy="300" r="2"/>
-  </g>
-  <text x="86" y="125" fill="#93c5fd" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4">SOFTWARE DEVELOPER</text>
-  <text x="82" y="190" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="47" font-weight="750">Muhammad Xoja</text>
-  <text x="84" y="240" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="47" font-weight="750">Sayfidinov</text>
-  <rect x="86" y="269" width="68" height="4" rx="2" fill="url(#accent)"/>
-  <text x="170" y="278" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Flutter · Dart · Python · Django</text>
 </svg>
